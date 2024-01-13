@@ -7,7 +7,10 @@
   <img align="right" alt="person" width="400" src="https://mymodernmet.com/wp/wp-content/uploads/2014/02/3d-gif-4.gif"> 
 </div>
 
-- 🔭 I’m currently working on **personal projects**
+About me:
+- 🔭 I’m currently working on **personal projects & pursuing MCA**
+
+- 🛠️ I can develop **front-end & back-end**
 
 - 🌱 I’m currently learning **Project management**
 
