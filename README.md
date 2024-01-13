@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rishav Patwa</h1>
 <h3 align="center">"Full Stack Web Developer with a passion for Project Management."</h3>
 
-<img align="right" alt="person" width="400" src="https://cdn.pixabay.com/animation/2022/08/22/06/27/06-27-28-539_512.gif">
+<img align="right" alt="person" width="400" src="https://mymodernmet.com/wp/wp-content/uploads/2014/02/3d-gif-4.gif">
 
 
 
