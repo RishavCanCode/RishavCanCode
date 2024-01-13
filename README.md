@@ -1,10 +1,11 @@
 ![logo](https://github.com/RishavCanCode/RishavCanCode/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rishav Patwa</h1>
 <h3 align="center">"Full Stack Web Developer with a passion for Project Management."</h3>
+<p align="right" style="margin-top: 10px;">I'm hard working too! 💪</p>
 
-<img align="right" alt="person" width="400" src="https://mymodernmet.com/wp/wp-content/uploads/2014/02/3d-gif-4.gif">
-
-
+<div style="float: right; margin-left: 10px;">
+  <img align="right" alt="person" width="400" src="https://mymodernmet.com/wp/wp-content/uploads/2014/02/3d-gif-4.gif"> 
+</div>
 
 - 🔭 I’m currently working on **personal projects**
 
